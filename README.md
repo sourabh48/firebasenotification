@@ -1,2 +1,2 @@
 # firebasenotification
-Sending Notification Using Firebase Function And FCM
+Sending Notification Using Firebase Function And Firebase Cloud Messaging.
