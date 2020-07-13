@@ -88,3 +88,9 @@ Folder structure
 # Important :
 
 Currently this method works with user who is logged in a single device.
+
+
+## Support
+If you think my projects are helpful you can contribute me anything at paypal.me/sourabh48
+
+
